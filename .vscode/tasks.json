@@ -1,0 +1,84 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [{
+    "label": ">>$harma_this_side",
+    "type": "shell",
+    "command": "C:/MinGW/mingw32/bin/g++",
+    // "command": "g++",
+    "args": [
+      "-g",
+      // "postfix.cpp"
+      // "sumStack.cpp"
+      // "crcFinal.cpp"
+      // "CRC.cpp"
+      // "HammingCode.cpp"
+      // "sparseMatrix.cpp"
+      // "sorting.cpp"
+      // "reverseString.cpp"
+      // "binarySearch.cpp"
+      // "genericTree.cpp"
+      // "MergeOrderedSLL.cpp"
+      // "reverseSLL.cpp"
+      // "reverseDLL.cpp"
+      // "reverseCLL.cpp"
+      // "redBlackTree.cpp"
+      // "graph2.cpp"
+      // "graphArray.cpp"
+      // "optimizedInsertionAssign.cpp"
+      // "colorSortAssign.cpp"
+      // "heapSort.cpp"
+      // "heapSort0Index.cpp"
+      // "radixSort.cpp"
+      // "radixSortNew.cpp"
+      // "bubble.cpp"
+      // "quickRandom.cpp"
+      // "mergeSortRandom.cpp"
+      // "merge.cpp"
+      // "allAdvSortings.cpp"
+      "subsetSum.cpp"
+      // "graphUsingArray.cpp"
+      // "RBT.cpp"
+      // "countSort.cpp"
+      // "pso.cpp"
+      // "psoClone1.cpp"
+      // "psoAPI.cpp"
+      // "array_of_pair.cpp"
+      // "test.cpp"
+      // "Int2BinStack.cpp"
+      // "polyAddSLL.cpp"
+      // "crcBackup.cpp"
+      // "crcShortest.cpp"
+      // "chaiCode.cpp"
+      // "hammedCode.cpp"
+      // "hammedCodeFinal.cpp"
+      // "hammedDevBackup.cpp"
+      // "templateFunction.cpp"
+      // "templateClass.cpp"
+      // "beforeAfterMain.cpp"
+      // "stackTemplate.cpp"
+      // "SLLTemplates.cpp"
+      // "stackUsingQueue.cpp"
+      // "stack.cpp"
+      // "sumStackWithoutZero.cpp"
+      // "infix2postfix.cpp"
+      // "program10.cpp"
+      // "ip.cpp"
+      // "selectiveRepeat.cpp"
+      // "SnWNoisy.cpp"
+      // "goBackN.cpp"
+      // "nick.cpp"
+      // "test.cpp"
+      // "pointer_function.cpp"
+      // "q8OS.cpp"
+      // "rec.cpp"
+      // "SJFP.cpp"
+      // "RR.cpp"
+    ],
+    "group": {
+      "kind": "build",
+      "isDefault": true
+    }
+  }]
+}
